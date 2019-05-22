@@ -26,4 +26,10 @@ To get documentation of a function Println of a package say fmt, use this comman
 ```code
 go doc fmt.Println
 ```
+To run documentation server locally on port say 6060, use this command:
+
+```code
+godoc -http=localhost:6060
+```
+
 
