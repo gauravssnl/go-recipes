@@ -15,7 +15,7 @@ To install the program as package / executable, use this command:
 ```code
 go install
 ```
-```
+
 To get documentation of a package say fmt, use this command:
 
 ```code
